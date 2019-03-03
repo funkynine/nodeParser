@@ -6,6 +6,8 @@ const logger = require('morgan');
 // const MongoClient    = require('mongodb').MongoClient;
 // const bodyParser     = require('body-parser');
 
+console.log("Start port: 3000");
+
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 
