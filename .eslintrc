@@ -24,9 +24,7 @@
       "alias": {
         "map": [
             ["app", "./"],
-            ["models", "./models"],
             ["routes", "./routes"],
-            ["controllers", "./controllers"],
             ["utils", "./utils"]
         ]
       },
